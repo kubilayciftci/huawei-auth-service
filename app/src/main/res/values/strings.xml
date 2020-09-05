@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Huawei AuthService</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">password</string>
+    <string name="verify_code">verify code</string>
+    <string name="verify_e_mail">Verify e-mail</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="huawei_auth_service">Huawei Auth Service</string>
+    <string name="sign_in_with_e_mail">Sign-in with e-mail</string>
+    <string name="verify_code_email">Please check your e-mail account.</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
